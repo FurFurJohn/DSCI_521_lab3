@@ -1,7 +1,9 @@
 # DSCI_521
 
+## Lab3
+
 ### Alex
 
+Markdown file:
 
-
-[new link](https://rawgit.com/FurFurJohn/DSCI_521_lab3/master/Lab3_Another_Markdown.html)
+[new link](https://furfurjohn.github.io/DSCI_521_lab3/)
