@@ -4,5 +4,7 @@
 
 Figuring out the optional question about html...
 
+Hope to get it right...
+
 #### A link to my html file: 
-[link](https://github.ubc.ca/jiangy01/DSCI_521_lab3_Question2_0_1/blob/master/Lab3_Another_Markdown.html)
+[link](https://github.com/FurFurJohn/DSCI_521_lab3/blob/master/Lab3_Another_Markdown.html)
